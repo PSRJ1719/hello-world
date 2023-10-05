@@ -22,4 +22,4 @@ In my leisure time, I enjoy a variety of activities, including:
 
 ## Conclusion
 
-I am delighted to have the opportunity to get to know everyone.
+I ‘m Gordon, a graduate student currently pursuing a degree in CIS. I have a strong interest in ITPM. I bring several years of work experience in the IT field, having worked as a SDE, QA, and BA. I also had the privilege of serving as a TA for Professor Wong in the context of PPPM, as well as a RA for Professor Kanabar in the field of ITPM. In my leisure time, I enjoy watching movies, reading books, traveling, investing, and gaming. I am delighted to have the opportunity to get to know everyone.
